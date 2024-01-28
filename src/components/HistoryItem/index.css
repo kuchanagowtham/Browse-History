@@ -1,0 +1,32 @@
+.logo-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  height: 30px;
+  width: 30px;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.title {
+  margin-right: 10px;
+}
+
+.history-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.delete-icon {
+  height: 30px;
+  width: 30px;
+  margin-right: 20px;
+}
+.time {
+  margin-left: 20px;
+  margin-right: 10px;
+}
